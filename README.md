@@ -33,5 +33,5 @@ This repository contains a Jupyter Notebook named **DataScienceEcosystem.ipynb**
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/YourUsername/DataScienceEcosystem.git
+   git clone https://github.com/yashh-github/DataScienceEcosystem.git
 
